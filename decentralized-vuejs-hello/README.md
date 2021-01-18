@@ -1,5 +1,8 @@
 # decentralized-vuejs-hello
 
+This is a Decentralized Hello World Vue.js program just used as an example in the article
+to create a IPFS deployment in blockchain, without HTTP!
+
 ## Project setup
 ```
 npm install
